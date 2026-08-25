@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "mock exam devan",
+      "words": [
+        {
+          "dutch": "verplaatsen",
+          "english": "move to another place"
+        },
+        {
+          "dutch": "weghalen",
+          "english": "remove/take away"
+        },
+        {
+          "dutch": "verhuizen",
+          "english": "move house"
+        },
+        {
+          "dutch": "meenemen",
+          "english": "take with you"
+        }
+      ]
+    }
+  ]
+}
